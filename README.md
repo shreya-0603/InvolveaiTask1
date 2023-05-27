@@ -13,3 +13,5 @@ Screenshorts of Working API
 ![Screenshot (17)](https://github.com/shreya-0603/InvolveaiTask1/assets/97119040/18314da5-8ca8-4ff5-97e9-68fabc1da23c)
 
 3. DEL Method: It will delete all the information from MongoDB.
+![Screenshot (18)](https://github.com/shreya-0603/InvolveaiTask1/assets/97119040/c3dc74c1-556b-4763-9e7f-4870864d7285)
+
