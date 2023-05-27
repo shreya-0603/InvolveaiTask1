@@ -4,4 +4,7 @@ Open this project to your vscode and open terminal and run python app.py. Then, 
 #How project was created.
 Firtst of all I get API key from OpenAi account. Also created a database using MongoDb to store data. I used that API key with my app.py file and Postman API to get,update and delete data from Mongodb using Postman.
 
-1. GET method: It will get all the information from Mongodb
+Screenshorts of Working API
+1. POST method: It will get an information from OpenAi and store it to MongoDb.
+
+![Screenshot (16)](https://github.com/shreya-0603/InvolveaiTask1/assets/97119040/26b4bb40-65e7-4f3b-9012-e4b24eacac4b)
