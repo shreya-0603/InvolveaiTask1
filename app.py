@@ -12,7 +12,7 @@ db = client['sales_tool']
 collection = db['sales_pitches']
 
 # Configure OpenAI API
-openai.api_key = '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'
+openai.api_key = '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'
 
 #to GET all the informations from MongoDb
 @app.route('/sales-pitches', methods=['GET'])
