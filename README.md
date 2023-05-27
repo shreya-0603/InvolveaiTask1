@@ -10,3 +10,6 @@ Screenshorts of Working API
 ![Screenshot (16)](https://github.com/shreya-0603/InvolveaiTask1/assets/97119040/26b4bb40-65e7-4f3b-9012-e4b24eacac4b)
 
 2. GET Method: It will get all the information from the Mongodb.
+![Screenshot (17)](https://github.com/shreya-0603/InvolveaiTask1/assets/97119040/18314da5-8ca8-4ff5-97e9-68fabc1da23c)
+
+3. DEL Method: It will delete all the information from MongoDB.
