@@ -1,8 +1,25 @@
 # InvolveaiTask1
 Open this project to your vscode and open terminal and run python app.py. Then, open postman, to GET all the descriptions and sales pitches select GET method and http://127.0.0.1:5000/sales-pitches. To add a new description and sales-pitch use POST method and http://127.0.0.1:5000/sales-pitches. To delete all the descriptions use DELETE option with http://127.0.0.1:5000/sales-pitches.
 
+STEP 1: Set up the Project
+
+Create a new directory for project and navigate to it.
+Initialize a virtual environment using following command:
+python3 -m venv venv
+source venv/bin/activate (Linux/Mac)
+venv\Scripts\activate (Windows)
+Install Flask and required dependencies:
+pip install Flask pymongo openai
+
+STEP 2: Add app.py file which is uploaded on this repo.
+
+STEP 3: start the mongo server using mongod command then run python app.py
+
+STEP 4: Test API using Postman
+
 #How project was created.
 Firtst of all I get API key from OpenAi account. Also created a database using MongoDb to store data. I used that API key with my app.py file and Postman API to get,update and delete data from Mongodb using Postman.
+
 
 Screenshorts of Working API
 1. POST method: It will get an information from OpenAi and store it to MongoDb.
