@@ -8,3 +8,5 @@ Screenshorts of Working API
 1. POST method: It will get an information from OpenAi and store it to MongoDb.
 
 ![Screenshot (16)](https://github.com/shreya-0603/InvolveaiTask1/assets/97119040/26b4bb40-65e7-4f3b-9012-e4b24eacac4b)
+
+2. GET Method: It will get all the information from the Mongodb.
